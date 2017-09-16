@@ -1,0 +1,20 @@
+{
+  "name": "array-instances-methods",
+  "version": "1.0.0",
+  "description": "Playing with array instances methods",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "array",
+    "methods",
+    "instances"
+  ],
+  "author": "Levron Jérémy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
